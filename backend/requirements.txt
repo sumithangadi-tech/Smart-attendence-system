@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+opencv-contrib-python
+numpy
+imutils
+pandas
+openpyxl
